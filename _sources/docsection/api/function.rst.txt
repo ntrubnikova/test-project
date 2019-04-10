@@ -1,0 +1,19 @@
+API Function
+
+Short description
+
+    functionName(  param_type parameter_one,    param_type
+parameter_two);
+
+Parameters
+
+    Parameter  Description  parameter_one  Parameter one description.
+parameter_two  Parameter two description.
+
+Output
+
+Function output.
+
+Return
+
+Function return.

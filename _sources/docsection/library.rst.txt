@@ -1,0 +1,37 @@
+Library
+
+List of images filtered with tags.
+
+Boxes A-G
+
+
+Box A
+
+
+Box B
+
+
+Box C
+
+
+Box D
+
+
+Box E
+
+
+Box F
+
+
+Box G
+
+Task
+
+Create a new section for images from 1 to 4. Add a new tag for these
+images.
+
+Use images in the
+
+images
+
+ folder.

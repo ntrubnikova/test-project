@@ -1,0 +1,105 @@
+References
+
+References
+
+Document Reference
+
+Link to another page:
+
+images
+
+.
+
+Reference with Anchor
+
+Link to a secrion of another page:
+
+List Tables
+
+.
+
+External URL
+
+Link to a another resource:
+
+Google
+
+.
+
+References to Subsections on Page
+
+Subsection 1
+
+Subsection 2
+
+Subsection 3
+
+Subsection 4
+
+Subsection 1
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas
+porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies,
+purus lectus malesuada libero, sit amet commodo magna eros quis urna.
+Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada
+fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.
+Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.
+
+Suspendisse dui purus, scelerisque at, vulputate vitae, pretium
+mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.
+
+Subsection 2
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas
+porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies,
+purus lectus malesuada libero, sit amet commodo magna eros quis urna.
+Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada
+fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.
+Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.
+
+Suspendisse dui purus, scelerisque at, vulputate vitae, pretium
+mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.
+
+Subsection 3
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas
+porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies,
+purus lectus malesuada libero, sit amet commodo magna eros quis urna.
+Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada
+fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.
+Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.
+
+Suspendisse dui purus, scelerisque at, vulputate vitae, pretium
+mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.
+
+Subsection 4
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas
+porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies,
+purus lectus malesuada libero, sit amet commodo magna eros quis urna.
+Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada
+fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.
+Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.
+
+Suspendisse dui purus, scelerisque at, vulputate vitae, pretium
+mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.
+
+Task
+
+Create 4 types of references:
+
+To another help page.
+
+To a section on another page.
+
+To a subsection on the same page.
+
+To an external website.
