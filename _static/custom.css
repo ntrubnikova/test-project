@@ -107,6 +107,7 @@ header .site-title {
 .site-nav-tree a {
 	color: #4a4a4a;
 	word-break: break-word;
+	
 }
 
 
@@ -115,25 +116,34 @@ header .site-title {
 }
 
 
-
-li.nav-has-children > a:before {
-	content: url(../_static/plus.svg);
-	margin: 0.1em 0.3em 0 -1.1em;
+.nav-parent {
+	margin: 0 0.2em 0.1em -1.1em;
+	vertical-align: middle;
+	cursor: pointer;
+	-webkit-touch-callout: none; 
+    -webkit-user-select: none; 
+     -khtml-user-select: none; 
+       -moz-user-select: none; 
+        -ms-user-select: none; 
+            user-select: none; 
+                                 
 }
 
-li.current.nav-has-children > a:before {
+
+li.current > span.nav-parent, li.nav-expanded > span.nav-parent {
 	content: url(../_static/minus.svg);
-	margin: 0.1em 0.3em 0 -1.1em;
 }
 
-li.nav-has-children > a:hover:before, li.current.nav-has-children > a:hover:before {
-	content: url(../_static/minus-hover.svg);
-	margin: 0.1em 0.3em 0 -1.1em;
+
+li span.nav-parent, li.nav-current-collapsed > span.nav-parent {
+	content: url(../_static/plus.svg);
 }
+
 
 body:after{
 	display:none;
-	content: url(../_static/minus-hover.svg);
+	content: url(../_static/plus.svg);
+	background: url(../_static/minus.svg);
 }
 
 .site-nav-tree>ul>li>ul>li:not(.current)>ul, .site-nav-tree>ul>li>ul>li>ul>li:not(.current)>ul {
